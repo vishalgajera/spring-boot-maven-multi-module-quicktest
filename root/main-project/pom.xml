@@ -12,7 +12,7 @@
 	<groupId>com.vishalgajera.main</groupId>
 	<artifactId>main-project</artifactId>
 	<name>main-project</name>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<dependencies>
 		<dependency>
